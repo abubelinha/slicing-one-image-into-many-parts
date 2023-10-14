@@ -1,3 +1,7 @@
+# see also fonttrace.pl here:
+# http://scruss.com/wordpress/wp-content/uploads/2010/05/fonttrace.pl.txt
+# http://scruss.com/blog/2010/05/09/creating-a-truetype-font-from-your-handwriting-with-your-scanner-your-printer-and-fontforge/
+
 from PIL import Image 
   
 # Opens a image in RGB mode 
